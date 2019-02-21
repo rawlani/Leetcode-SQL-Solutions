@@ -4,7 +4,7 @@ Data in it simplest form is the combination of rows and columns where each row t
 This all sounds may be intimidating for some but people like me finds it really interesting. Its cool!! Just Imagine!!
 
 # Beforehand
-Before we dive into specific cases dealing with "Playing with data" its necessary to know that before you apply any algorithms, its necessary to clean the data. Cleaning steps include : Data Wrangling / Data Manipulation / Data Extraction depending on how the data is at the initial position.
+Before anyone thinks that they are ready for applying Machine Learning Algorithmswe, its necessary to know that before you apply any of those, its necessary to clean the data. Cleaning steps include : Data Wrangling / Data Manipulation / Data Extraction depending on how the data is at the initial position. Unfortunately, in Data Analysis process, 80% of the time is consumed by Data Cleaning step. Therefore, its necessary to first convert the data which is easy to understand and debug.
 
 # Pre-requisites
 1. Basic Understanding of Python
